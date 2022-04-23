@@ -13,12 +13,12 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 📫 How to reach me **110mors110@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
@@ -37,7 +37,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
-
+-->
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
